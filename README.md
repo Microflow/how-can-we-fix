@@ -1,3 +1,9 @@
+# How Can We Fix
+
+How can we fix is an open source project. A collaborative crowdsolving website/app aimed at solving big problems with the power of people
+We make problem solving fun, powerul and free!
+
+
 ![Alchemy Book](https://raw.githubusercontent.com/rudi-c/alchemy-book/master/alchemybook.gif)
 
 # The Alchemy Book

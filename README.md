@@ -1,4 +1,4 @@
-# How Can We Fix
+<h1 align="center"> How Can We Fix</h1>
 
 How Can We Fix is an open source project. A crowdsolving, crowdwriting website aimed at solving problems in work or society.
 

@@ -1,10 +1,44 @@
 # How Can We Fix
 
-How can we fix is an open source project. A collaborative crowdsolving website/app aimed at solving big problems with the power of people
-We make problem solving fun, powerul and free!
+How Can We Fix is an open source project. A crowdsolving, crowdwriting website aimed at solving problems in work or society.
+
+- What can we do to fix pollution in our local area?
+- How can I raise money for an app?
+- How can I open an organic restaurant in my area?
+- How can I meditate better?
+- I just broke up with my girlfriend, how can I heal my broken heart?
+- How can I slim down and get a stronger body?
+- How can I be more productive.
+
+Someone asks a question. Users and teams compete to write a well written document. 
 
 
-![Alchemy Book](https://raw.githubusercontent.com/rudi-c/alchemy-book/master/alchemybook.gif)
+
+### User Stories
+
+
+
+## ROADMAP
+
+Why?
+
+- Change font to Raleway or Montserrat. Later, give users a choice of more fonts. 
+- Change background photo to something simpler, or simple white.
+- User configurable username.
+- EDITOR function. One user gets edit priviliges, and final say over the whole document. 
+- See user colors function. CLick, and see who wrote what.
+- Main page where you can see two teams writing in separate windows. 
+
+We make problem solving fun, powerful and free!
+
+<p align="center">
+<img src="http://i.imgur.com/BWq7zHV.jpg">
+</p>
+
+
+### Original Alchemy Book Post Here
+
+<!--![Alchemy Book](https://raw.githubusercontent.com/rudi-c/alchemy-book/master/alchemybook.gif)-->
 
 # The Alchemy Book
 

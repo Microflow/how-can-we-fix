@@ -2,7 +2,7 @@
 
 How Can We Fix is an open source project written in Elixir/Phoenix. A crowdsolving, crowdwriting website aimed at solving problems in work or society. 
 
-This is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)
+## Fix is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)
 
 - What can we do to fix pollution in our local area?
 - How can I raise money for an app?

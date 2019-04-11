@@ -1,6 +1,8 @@
 <h1 align="center"> How Can We Fix</h1>
 
-How Can We Fix is an open source project. A crowdsolving, crowdwriting website aimed at solving problems in work or society.
+How Can We Fix is an open source project written in Elixir/Phoenix. A crowdsolving, crowdwriting website aimed at solving problems in work or society. 
+
+This is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)
 
 - What can we do to fix pollution in our local area?
 - How can I raise money for an app?
@@ -12,7 +14,7 @@ How Can We Fix is an open source project. A crowdsolving, crowdwriting website a
 
 Someone asks a question. Users and teams compete to write a well written document. 
 
-
+Want some Elixir practice? Please take a look at our [issues](https://github.com/rudi-c/alchemy-book)
 
 ### User Stories
 

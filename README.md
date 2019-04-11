@@ -32,7 +32,7 @@ Why?
 We make problem solving fun, powerful and free!
 
 <p align="center">
-<img src="http://i.imgur.com/6Gytiim.jpg">
+<img src="http://i.imgur.com/6Gytiim.jpg" width="50%" height="auto">
 </p>
 
 

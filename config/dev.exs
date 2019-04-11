@@ -36,7 +36,8 @@ config :phoenix, :stacktrace_depth, 20
 config :alchemy_book, AlchemyBook.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
-  password: "postgres",
+  password: "android",
   database: "alchemy_book_dev",
   hostname: "localhost",
+  template: "template0",
   pool_size: 10

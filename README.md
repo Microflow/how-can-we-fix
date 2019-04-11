@@ -27,14 +27,19 @@ Want some Elixir practice? Please take a look at our [issues](https://github.com
 
 John logs on to the main How Can We fix page and sees two teams writing about how to improve the local economy.
 Matt opens How Can we fix and sees two teams writing a guide on how to raise money locally.
-Luke opens Fix and looks
+Luke opens Fix and looks at people writing about local restaurants.
 
 ## Writers
 
+Any editor can start a document and let people join their team. 
 
 ## Local Forks
 
+How Can We Fix is open source. You're welcome to make a fork for your local area. 
+
 ## Enterprise Forks
+
+Fix can easily be used by companies to write internal documents. 
 
 ## ROADMAP
 

@@ -1,4 +1,9 @@
-<h1 align="center"> How Can We Fix</h1>
+<h1 align="center"> How Can We Fix?</h1>
+
+<p align="center">
+<img src="http://i.imgur.com/2ytXK6V.jpg" width="47%" height="auto">
+</p>
+
 
 ### *How Can We Fix is an open source project written in Elixir/Phoenix. A crowdsolving, crowdwriting website aimed at solving problems in work or society.* 
 
@@ -10,15 +15,26 @@
 - How can I meditate better?
 - I just broke up with my girlfriend, how can I heal my broken heart?
 - How can I slim down and get a stronger body?
-- How can I be more productive.
+- How can I be more productive?
 
 Someone asks a question. Users and teams compete to write a well written document. 
 
 Want some Elixir practice? Please take a look at our [issues](https://github.com/rudi-c/alchemy-book)
 
-### User Stories
+### USER STORIES
+
+## Readers
+
+John logs on to the main How Can We fix page and sees two teams writing about how to improve the local economy.
+Matt opens How Can we fix and sees two teams writing a guide on how to raise money locally.
+Luke opens Fix and looks
+
+## Writers
 
 
+## Local Forks
+
+## Enterprise Forks
 
 ## ROADMAP
 

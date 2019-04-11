@@ -32,8 +32,7 @@ Why?
 We make problem solving fun, powerful and free!
 
 <p align="center">
-<img src="http://i.imgur.com/BWq7zHV.jpg">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BWq7zHV"><a href="//imgur.com/BWq7zHV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="http://i.imgur.com/6Gytiim.jpg">
 </p>
 
 

@@ -21,7 +21,17 @@ Check out the [example Alchemy app here](lchemy.digitalfreepen.com). We'll make 
 
 Someone asks a question. Users and teams compete to write a well written document. 
 
-Want some Elixir practice? Please take a look at our [issues](https://github.com/rudi-c/alchemy-book)
+## Want some Elixir practice? Please take a look at our [issues](https://github.com/Microflow/how-can-we-fix/issues)
+
+### [Main list of issues](https://github.com/Microflow/how-can-we-fix/issues)
+
+### [bugs here](https://github.com/Microflow/how-can-we-fix/labels/bug)
+
+### [New features here](https://github.com/Microflow/how-can-we-fix/labels/New%20feature%21)
+
+## Latest issues!
+
+### [mix ecto.create returns: == Compilation error in file web/views/document_view.ex == ](https://github.com/Microflow/how-can-we-fix/issues/1)
 
 ## USER STORIES
 

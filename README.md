@@ -21,7 +21,7 @@ Someone asks a question. Users and teams compete to write a well written documen
 
 Want some Elixir practice? Please take a look at our [issues](https://github.com/rudi-c/alchemy-book)
 
-### USER STORIES
+## USER STORIES
 
 ## Readers
 
@@ -43,7 +43,7 @@ Fix can easily be used by companies to write internal documents.
 
 ## ROADMAP
 
-Why?
+Right now we're working on better fonts, better background, user logon, better colors, EDITOR prilileges, and a main page with two team panes. 
 
 - Change font to Raleway or Montserrat. Later, give users a choice of more fonts. 
 - Change background photo to something simpler, or simple white.
@@ -59,7 +59,7 @@ We make problem solving fun, powerful and free!
 </p>
 
 
-### Original Alchemy Book Post Here
+## Original Alchemy Book Post Below. For technical information, please refer to this document. 
 
 <!--![Alchemy Book](https://raw.githubusercontent.com/rudi-c/alchemy-book/master/alchemybook.gif)-->
 

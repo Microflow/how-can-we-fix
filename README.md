@@ -9,7 +9,7 @@
 
 Check out the example Alchemy app at **alchemy.digitalfreepen.com**. We'll make our own version as soon as possible. 
 
-## How Can We Fix Will Help Users Answer Questions Like These
+## How can we fix will help users answer questions like these...
 
 - What can we do to fix pollution in our local area?
 - How can I raise money for an app?
@@ -19,7 +19,7 @@ Check out the example Alchemy app at **alchemy.digitalfreepen.com**. We'll make 
 - How can I slim down and get a stronger body?
 - How can I be more productive?
 
-Someone asks a question. Users and teams compete to write a well written document. Each doc has one master editor. 
+Someone asks a question. Users and teams compete to write a well written document. Each doc has one master editor. Alchemy book has great unctionality but the CSS needs to me more simple. 
 
 ## Want some Elixir practice? Please take a look at our [issues](https://github.com/Microflow/how-can-we-fix/issues)
 
@@ -63,7 +63,7 @@ Right now we're working on better fonts, better background, user logon, better c
 - Change background photo to something simpler, or simple white.
 - User configurable username.
 - EDITOR function. One user gets edit priviliges, and final say over the whole document. 
-- See user colors function. CLick, and see who wrote what.
+- **See user colors** function. CLick, and see who wrote what.
 - Main page where you can see two teams writing in separate windows. 
 
 We make problem solving fun, powerful and free!
@@ -73,7 +73,7 @@ We make problem solving fun, powerful and free!
 </p>
 
 
-## Original Alchemy Book Post Below. For technical information, please refer to this document. 
+## Original Alchemy Book ReadMe Below. For technical information, please refer to this document. 
 
 <!--![Alchemy Book](https://raw.githubusercontent.com/rudi-c/alchemy-book/master/alchemybook.gif)-->
 

@@ -5,9 +5,11 @@
 </p>
 
 
-### *How Can We Fix is an open source project written in Elixir/Phoenix. A crowdsolving, crowdwriting website aimed at solving problems in work or society. Fix is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)* 
+### *How Can We Fix is an open source project written in Elixir/Phoenix. A crowdwriting website aimed at solving problems in work or society. Fix is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)* 
 
-Check out the [example Alchemy app here](alchemy.digitalfreepen.com). We'll make our own version as soon as possible. 
+Check out the example Alchemy app at **alchemy.digitalfreepen.com**. We'll make our own version as soon as possible. 
+
+## How Can We Fix Will Help People Crowd Answer the Following Questions
 
 - What can we do to fix pollution in our local area?
 - How can I raise money for an app?
@@ -17,7 +19,7 @@ Check out the [example Alchemy app here](alchemy.digitalfreepen.com). We'll make
 - How can I slim down and get a stronger body?
 - How can I be more productive?
 
-Someone asks a question. Users and teams compete to write a well written document. 
+Someone asks a question. Users and teams compete to write a well written document. Each doc has one master editor. 
 
 ## Want some Elixir practice? Please take a look at our [issues](https://github.com/Microflow/how-can-we-fix/issues)
 

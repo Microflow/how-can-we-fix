@@ -33,6 +33,8 @@ Someone asks a question. Users and teams compete to write a well written documen
 
 ### [mix ecto.create returns: == Compilation error in file web/views/document_view.ex == ](https://github.com/Microflow/how-can-we-fix/issues/1)
 
+### You can find us in the beginners room at [Elixir-lang Slack](https://elixir-lang.slack.com/messages/C0HEX82NR/) 
+
 ## USER STORIES
 
 ## Readers

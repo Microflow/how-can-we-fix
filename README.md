@@ -9,7 +9,7 @@
 
 Check out the example Alchemy app at **alchemy.digitalfreepen.com**. We'll make our own version as soon as possible. 
 
-## How Can We Fix Will Help Users Crowd Answer the Following Questions
+## How Can We Fix Will Help Users Answer Questions Like These
 
 - What can we do to fix pollution in our local area?
 - How can I raise money for an app?

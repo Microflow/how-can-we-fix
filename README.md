@@ -1,13 +1,11 @@
 <h1 align="center"> How Can We Fix?</h1>
 
-<!p align="center">
-<img src="http://i.imgur.com/MzThVqS.jpg" width="47%" height="auto">
+<p align="center">
+<img src="http://i.imgur.com/MzThVqS.jpg" width="53%" height="auto">
 </p>
 
 
-### *How Can We Fix is an open source project written in Elixir/Phoenix. A crowdsolving, crowdwriting website aimed at solving problems in work or society.* 
-
-### Fix is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)
+### *How Can We Fix is an open source project written in Elixir/Phoenix. A crowdsolving, crowdwriting website aimed at solving problems in work or society. Fix is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)* 
 
 Check out the [example Alchemy app here](lchemy.digitalfreepen.com). We'll make our own version as soon as possible. 
 

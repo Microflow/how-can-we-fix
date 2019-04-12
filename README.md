@@ -9,6 +9,8 @@
 
 ### Fix is a fork of the awesome [Alchemy Book](https://github.com/rudi-c/alchemy-book)
 
+Check out the [example Alchemy app here](lchemy.digitalfreepen.com) We'll make our own version as soon as possible. 
+
 - What can we do to fix pollution in our local area?
 - How can I raise money for an app?
 - How can I open an organic restaurant in my area?

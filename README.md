@@ -1,7 +1,7 @@
 <h1 align="center"> How Can We Fix?</h1>
 
-<p align="center">
-<img src="http://i.imgur.com/2ytXK6V.jpg" width="47%" height="auto">
+<!p align="center">
+<img src="http://i.imgur.com/MzThVqS.jpg" width="47%" height="auto">
 </p>
 
 

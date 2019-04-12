@@ -67,7 +67,7 @@ Right now we're working on better fonts, better background, user logon, better c
 We make problem solving fun, powerful and free!
 
 <p align="center">
-<img src="http://i.imgur.com/6Gytiim.jpg" width="67%" height="auto">
+<img src="http://i.imgur.com/6Gytiim.jpg" width="55%" height="auto">
 </p>
 
 

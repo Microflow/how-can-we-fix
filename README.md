@@ -73,7 +73,7 @@ We make problem solving fun, powerful and free!
 </p>
 
 
-## Original Alchemy Book ReadMe Below. For technical information, please refer to this document. 
+## Original Alchemy Book ReadMe Below.
 
 <!--![Alchemy Book](https://raw.githubusercontent.com/rudi-c/alchemy-book/master/alchemybook.gif)-->
 

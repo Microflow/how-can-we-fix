@@ -19,7 +19,7 @@ Check out the example Alchemy app at **alchemy.digitalfreepen.com**. We'll make 
 - How can I slim down and get a stronger body?
 - How can I be more productive?
 
-Someone asks a question. Users and teams compete to write a well written document. Each doc has one master editor. Alchemy book has great unctionality but the CSS needs to me more simple. 
+Someone asks a question. Users and teams compete to write a well written document. Each doc has one master editor. Alchemy book has great functionality but the CSS needs to me more simple. 
 
 ## Want some Elixir practice? Please take a look at our [issues](https://github.com/Microflow/how-can-we-fix/issues)
 
@@ -27,7 +27,7 @@ Someone asks a question. Users and teams compete to write a well written documen
 
 ### [bugs here](https://github.com/Microflow/how-can-we-fix/labels/bug)
 
-### [New features here](https://github.com/Microflow/how-can-we-fix/labels/New%20feature%21)
+<!-- ### [New features here](https://github.com/Microflow/how-can-we-fix/labels/New%20feature%21)-->
 
 ## Latest issues!
 
@@ -35,13 +35,13 @@ Someone asks a question. Users and teams compete to write a well written documen
 
 ### You can find us in the beginners room at [Elixir-lang Slack](https://elixir-lang.slack.com/messages/C0HEX82NR/) 
 
-## USER STORIES
+## User Stories
 
 ## Readers
 
 John logs on to the main How Can We fix page and sees two teams writing about how to improve the local economy.
-Matt opens How Can we fix and sees two teams writing a guide on how to raise money locally.
-Luke opens Fix and looks at people writing about local restaurants.
+Matt opens How Can We fix and sees two teams writing a guide on how to raise money locally.
+Luke opens Fix and looks at people writing about how to open a local restaurant.
 
 ## Writers
 
@@ -55,7 +55,7 @@ How Can We Fix is open source. You're welcome to make a fork for your local area
 
 Fix can easily be used by companies to write internal documents. 
 
-## ROADMAP
+## Roadmap
 
 Right now we're working on better fonts, better background, user logon, better colors, EDITOR prilileges, and a main page with two team panes. 
 
